@@ -28,5 +28,5 @@ using namespace std;
 			x2 = (-b - d) / (2 * a);
 			cout << "x1=" << x1 << " x2=" << x2 << endl;
 		}
-33		return 0;
-34	}
+		return 0;
+	}
