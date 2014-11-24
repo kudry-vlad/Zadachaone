@@ -1,5 +1,6 @@
 #include "stdafx.h"
-#include <iostream>
+#include <iostream>'
+#include <locale.h>'
 using namespace std;
 	
 	int main(void)
